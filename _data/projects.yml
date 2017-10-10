@@ -14,3 +14,15 @@
   duration: Oct. 2016 &mdash; July 2017
   # url: "#"
   description:  <ul class="resume-item-list"><li>Developed an password inference model which analyses physical layer data in wireless signals to infer passwords entered on a POS terminal.</li><li>Proposed a novel keystroke segmentation algorithm to improve the classification accuracy, and made use of PCA technique and Support Vector Machine with time series kernel which was originally used in this field</li></ul>
+
+- project: Reversi AI player
+  
+  duration: Nov. 2016 &mdash; Dec. 2016
+
+  description: <ul class="resume-item-list"><li>Developed a smart AI player who could learn by self-game and designed a graphical interface allowing competing with AI player</li><li>Utilized machine learning algorithm and particle swarm optimization to train a feed-forward neural network which was used to make decisions</li><li>Applied α-β pruning to improve the performance</li></ul>
+
+- project: C Compiler 
+
+  duration: Mar. 2017 &mdash; June 2017
+
+  description: <ul class="resume-item-list"><li>Implemented a C11 compiler including scanner, parser and code generator. The compiler was written in Java language</li><li>Allowed user-defined grammar by introducing LR(1) parser and supported the graphical display of the syntax tree</li></ul>
