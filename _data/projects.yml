@@ -3,14 +3,14 @@
 
 # donutfinder.io
 - project: DNA Mapping Algorithm for Third-Generation Sequencing 
-  role: 
+  #role: 
   duration: Apr. 2017 &mdash; July 2017
   # url: "#"
   description: <ul class="resume-item-list"><li>Proposed a novel method of mapping Third-Generation DNA sequence with acceptable accuracy and speed, which could effectively deal with sequences of high error rate and repetitive region</li><li>Transformed the sequence alignment into classification question by utilizing hierarchical clustering and Support Vector Machine classifier</li><li>Wrote an academic paper which is currently under review</li></ul>
 
 #Springfield Donut Eater's User Group
 - project: POS Terminal Password Inference Model 
-  role: 
+  #role: 
   duration: Oct. 2016 &mdash; July 2017
   # url: "#"
   description:  <ul class="resume-item-list"><li>Developed an password inference model which analyses physical layer data in wireless signals to infer passwords entered on a POS terminal.</li><li>Proposed a novel keystroke segmentation algorithm to improve the classification accuracy, and made use of PCA technique and Support Vector Machine with time series kernel which was originally used in this field</li></ul>
