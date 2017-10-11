@@ -6,7 +6,7 @@
   #role: 
   duration: Apr. 2017 &mdash; July 2017
   # url: "#"
-  description: <ul class="resume-item-list"><li>Proposed a novel method of mapping Third-Generation DNA sequence with acceptable accuracy and speed, which could effectively deal with sequences of high error rate and repetitive region</li><li>Transformed the sequence alignment into classification question by utilizing hierarchical clustering and Support Vector Machine classifier</li><li>Wrote an academic paper "CLUSVM: A Mapping Method for Third-Generation Sequencing by Clustering and Classification" which is currently under review</li></ul>
+  description: <ul class="resume-item-list"><li>Proposed a novel method of mapping Third-Generation DNA sequence with acceptable accuracy and speed, which could effectively deal with sequences of high error rate and repetitive region</li><li>Transformed the sequence alignment into classification question by utilizing hierarchical clustering and Support Vector Machine classifier</li><li>Wrote an academic paper "CLUSVM A Mapping Method for Third-Generation Sequencing by Clustering and Classification" which is currently under review</li></ul>
 
 #Springfield Donut Eater's User Group
 - project: POS Terminal Password Inference Model 
