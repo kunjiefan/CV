@@ -3,6 +3,16 @@
 
   {% include head.html %}
 
+  <script>
+    var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?b7634cc92012f2fc55f8e5ff5c3e5073";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+  </script>
+
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
@@ -224,13 +234,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by Kunjie Fan.</p>
-        <script type="application/javascript">
-          function getIP(json) {
-            var x = json.ip;
-          }
-        </script>
-        <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+        <p class="footer-line">Made by Kunjie Fan. Supported by Joel Glovier.</p>
         
       </footer>
 
