@@ -225,6 +225,14 @@
 
       <footer class="page-footer">
         <p class="footer-line">Made by Kunjie Fan.</p>
+        <script type="application/javascript">
+          function getIP(json) {
+            console.log(json.ip);
+            document.getElementById("ip").innerHTML = json.ip;
+          }
+        </script>
+        <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+        <p id="ip"></p>
       </footer>
 
     </div>
