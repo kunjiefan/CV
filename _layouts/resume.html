@@ -119,6 +119,27 @@
       {% endif %}
 
 
+{% if site.resume_section_publications %}
+      <!-- begin publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for paper in site.data.publications %}
+        <div class="resume-item">
+          <p class="resume-item-title" itemprop="award">{{ paper.writers }}</p>
+          <p class="resume-item-details">{{ paper.title }} &bull; {{ paper.status }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end publications -->
+      {% endif %}
+
+
+
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
       <section class="content-section">

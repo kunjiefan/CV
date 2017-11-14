@@ -6,7 +6,7 @@
   #role: 
   duration: July 2017 &mdash; Oct. 2017
   # url: "#"
-  description: <ul class="resume-item-list"><li>Developed a state-of-art classifier using graph representation learning which considers both protein sequence information and PPI network structure information</li><li>The model could achieve above 95\% accuracy on several Protein-Protein Interactions datasets and outperform existing sequence-based methods</li><li>Wrote an academic paper which is currently under review in RECOMB2018</li></ul>
+  description: <ul class="resume-item-list"><li>Developed a state-of-art classifier using graph representation learning which considers both protein sequence information and PPI network structure information</li><li>The model could achieve above 95\% accuracy on several Protein-Protein Interactions datasets and outperform existing sequence-based methods</li></ul>
 
 - project: DNA Mapping Algorithm for Third-Generation Sequencing 
   #role: 
