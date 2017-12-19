@@ -9,7 +9,7 @@
 - company: CuraCloud
   position: Bioinformatician Intern
   duration:  Aug. 2017 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Implemented a fast t-SNE algorithm for single cell discovery and characterization up to hundreds to millions of cells in a comprehensive and scalable way</li></ul>
+  summary: <ul class="resume-item-list"><li>Implemented a fast t-SNE algorithm for single cell discovery and characterization up to hundreds to millions of cells in a comprehensive and scalable way</li><li>Designed powerful deep learning methods for mutlti-label classification on ChestX-ray14 dataset</li></ul>
 
 
 - company: Neusoft
